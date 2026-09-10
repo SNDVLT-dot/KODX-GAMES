@@ -1,0 +1,340 @@
+{
+  "purpose": "Original visual references supplied by the user; image inventory, not profile replacement",
+  "characters": [
+    {
+      "id": "HERO-001",
+      "name": "Rogue",
+      "group": "Heroine",
+      "images": [
+        {
+          "path": "HERO-001_01.jpg",
+          "sha256": "5e7e519c575990e6b12f900aeb75cfdab0f8fc441b35ecb69d2920a2529d2e3e"
+        },
+        {
+          "path": "HERO-001_02.jpg",
+          "sha256": "dd8eef941ff9d936a3ca5d7f9bac432ec6fe297c38db894926026b434bcf9f37"
+        },
+        {
+          "path": "HERO-001_03.jpg",
+          "sha256": "3ba1340fc6b41ed713446928ed598adef6be626f4f14489d5b79ce0213c05d1d"
+        },
+        {
+          "path": "HERO-001_04.jpg",
+          "sha256": "e3da9c62070431e4e4b65aef4f8963f59add62c132ec7c848573695442056720"
+        },
+        {
+          "path": "HERO-001_05.jpg",
+          "sha256": "a553b63236c40bf0de4609a9f8455bbf14a0a826045c364fe8f55759c803dc46"
+        },
+        {
+          "path": "HERO-001_06.jpg",
+          "sha256": "a15b4b2cd35bbb431fef2c908e04146ad23b87c902c7725c2d9d4331bb6722b6"
+        },
+        {
+          "path": "HERO-001_07.jpg",
+          "sha256": "fa9bb52e58cdbe9c00637772d1dd2a08553c41e4f70926c312e5efaf199267b7"
+        },
+        {
+          "path": "HERO-001_08.jpg",
+          "sha256": "710f7b5d55d32dde8a3c4994abdf61851dcc1b2f0cbdc5c8d1204817bb3e734f"
+        },
+        {
+          "path": "HERO-001_09.jpg",
+          "sha256": "4c0b84e75bc6df0a69dfdbb8ee3a46214694c2d7a8cee2ecf1862bde01b55797"
+        },
+        {
+          "path": "HERO-001_10.jpg",
+          "sha256": "a6fd6e860a0728f5812b30839962404068144fe343ba8d9254b09b4908163d85"
+        }
+      ]
+    },
+    {
+      "id": "MOL-001",
+      "name": "The Botanist",
+      "group": "CANOPY",
+      "images": [
+        {
+          "path": "MOL-001_01.jpg",
+          "sha256": "328f89f9929bc6f4c8bf7c49b9a10fe7d98af7866ab313df00607681bfbef590"
+        }
+      ]
+    },
+    {
+      "id": "MOL-002",
+      "name": "The Surveyor",
+      "group": "CANOPY",
+      "images": [
+        {
+          "path": "MOL-002_01.jpg",
+          "sha256": "2a0e64aa593904bf76b68db4933bda6c8b20ef946964a9069bbaa478e8a5a60c"
+        }
+      ]
+    },
+    {
+      "id": "MOL-003",
+      "name": "The Keeper",
+      "group": "CANOPY",
+      "images": [
+        {
+          "path": "MOL-003_01.jpg",
+          "sha256": "98772d30b256da40104c68a7f8be3d8b72c9f58391fdd8bebac6a892a3b965aa"
+        }
+      ]
+    },
+    {
+      "id": "MOL-004",
+      "name": "The Diver",
+      "group": "TIDE",
+      "images": [
+        {
+          "path": "MOL-004_01.jpg",
+          "sha256": "04e00d4790fe4cbbd2497b2303fe90adeee6d4ef825fb19c18f751a2d88c5eb1"
+        }
+      ]
+    },
+    {
+      "id": "MOL-005",
+      "name": "The Hydrologist",
+      "group": "TIDE",
+      "images": [
+        {
+          "path": "MOL-005_01.jpg",
+          "sha256": "6f2de157847af35bbb79322fc49fca2927c4f70fc86072c01f1587d22dc7d259"
+        }
+      ]
+    },
+    {
+      "id": "MOL-006",
+      "name": "The Captain",
+      "group": "TIDE",
+      "images": [
+        {
+          "path": "MOL-006_01.jpg",
+          "sha256": "0707124ff246aa35d39496b2adf282393b8da560d011e18c263346173a1c25f4"
+        }
+      ]
+    },
+    {
+      "id": "MOL-007",
+      "name": "The Architect",
+      "group": "SIGNAL",
+      "images": [
+        {
+          "path": "MOL-007_01.jpg",
+          "sha256": "0c6f5d534600ba1337388148d367e70657c4391314c1ecb605919f19f5d2c35a"
+        }
+      ]
+    },
+    {
+      "id": "MOL-008",
+      "name": "The Cleaner",
+      "group": "SIGNAL",
+      "images": [
+        {
+          "path": "MOL-008_01.jpg",
+          "sha256": "8a7ee783ace55b479a6fcb597f9bf7e7b25e0a0f3f8c7e7d68874dfae3a84d1f"
+        }
+      ]
+    },
+    {
+      "id": "MOL-009",
+      "name": "The Auditor",
+      "group": "SIGNAL",
+      "images": [
+        {
+          "path": "MOL-009_01.jpg",
+          "sha256": "2c621197b88421265f725f0c605d95cdeef840f29d90a11c9413f28f7b1dc4fe"
+        }
+      ]
+    },
+    {
+      "id": "MOL-010",
+      "name": "The Meteorologist",
+      "group": "BREATH",
+      "images": [
+        {
+          "path": "MOL-010_01.jpg",
+          "sha256": "ec17662c85848d956c1d43ba5071daa11178a5ba258ba3d64a8a0246da1cac66"
+        }
+      ]
+    },
+    {
+      "id": "MOL-011",
+      "name": "The Pilot",
+      "group": "BREATH",
+      "images": [
+        {
+          "path": "MOL-011_01.jpg",
+          "sha256": "492e598ca88a685bac38af1f2d9e1373ad3822a41d9be57bc14bc3e33dcbff6d"
+        }
+      ]
+    },
+    {
+      "id": "MOL-012",
+      "name": "The Chemist",
+      "group": "BREATH",
+      "images": [
+        {
+          "path": "MOL-012_01.jpg",
+          "sha256": "c8735490e41de5a494445ff3d58144625782fe88e9203a9bd934d2a6b4290ab7"
+        }
+      ]
+    },
+    {
+      "id": "MOL-013",
+      "name": "The Ranger",
+      "group": "WILD",
+      "images": [
+        {
+          "path": "MOL-013_01.jpg",
+          "sha256": "549f7457628875a2dd8c50f9059ea1b013a1feec8fc8e40dd842943202de3300"
+        }
+      ]
+    },
+    {
+      "id": "MOL-014",
+      "name": "The Veterinarian",
+      "group": "WILD",
+      "images": [
+        {
+          "path": "MOL-014_01.jpg",
+          "sha256": "b7443ba42ec8a266c30cfd4da592c4f3d862425cdc92584c0075fd0010d0bcc0"
+        }
+      ]
+    },
+    {
+      "id": "MOL-015",
+      "name": "The Geneticist",
+      "group": "WILD",
+      "images": [
+        {
+          "path": "MOL-015_01.jpg",
+          "sha256": "544ee6c39e1edce52dab354e98e34e581568485851b3582d4f24251486b60fef"
+        }
+      ]
+    },
+    {
+      "id": "ANT-001",
+      "name": "The Optimist",
+      "group": "Corporate Titans",
+      "images": [
+        {
+          "path": "ANT-001_01.jpg",
+          "sha256": "6c4a1b5342cd63dd0a9df7081c3cd1b0495060e87e188b470e8ac2db68c23e0e"
+        }
+      ]
+    },
+    {
+      "id": "ANT-002",
+      "name": "The Provider",
+      "group": "Corporate Titans",
+      "images": [
+        {
+          "path": "ANT-002_01.jpg",
+          "sha256": "4e68bb000ba95e9800d4d401babfea2c5aaa3a00bfe2fcb55c65ca671297d7c8"
+        }
+      ]
+    },
+    {
+      "id": "ANT-003",
+      "name": "The Miner",
+      "group": "Corporate Titans",
+      "images": [
+        {
+          "path": "ANT-003_01.jpg",
+          "sha256": "175559189fccdfec53160b73c5fe67340ac98b7965851994d5328aae330e07f0"
+        }
+      ]
+    },
+    {
+      "id": "ANT-004",
+      "name": "The Engineer",
+      "group": "Corporate Titans",
+      "images": [
+        {
+          "path": "ANT-004_01.jpg",
+          "sha256": "a6dbbdae7fab53486e537edb57da56ed716fb3c7a0a4508824c8fae809fcf5d9"
+        }
+      ]
+    },
+    {
+      "id": "HNT-001",
+      "name": "The Director",
+      "group": "Hunters",
+      "images": [
+        {
+          "path": "HNT-001_01.jpg",
+          "sha256": "3ee94ba0ceb69d921dfe38058cfa3713ea8b56115b0844eca6a9a15e770922d9"
+        }
+      ]
+    },
+    {
+      "id": "HNT-002",
+      "name": "The Tracker",
+      "group": "Hunters",
+      "images": [
+        {
+          "path": "HNT-002_01.jpg",
+          "sha256": "96b1ae91bb08d473439ea5e79b9cc664c6b267d39eb5121a3a9114f793c1170c"
+        }
+      ]
+    },
+    {
+      "id": "HNT-003",
+      "name": "The Warden",
+      "group": "Hunters",
+      "images": [
+        {
+          "path": "HNT-003_01.jpg",
+          "sha256": "d748e74dd9b95cfc9eabca899560ed90a7077e7d0406a7d59d58ebf45bcb39a0"
+        }
+      ]
+    },
+    {
+      "id": "HNT-004",
+      "name": "The Harvester",
+      "group": "Hunters",
+      "images": [
+        {
+          "path": "HNT-004_01.jpg",
+          "sha256": "647f909867c74bd6e60c309bdb470f42d8ad65051e61e6594eb95d79fac85559"
+        }
+      ]
+    },
+    {
+      "id": "GREY-001",
+      "name": "The Journalist",
+      "group": "Grey Players",
+      "images": [
+        {
+          "path": "GREY-001_01.jpg",
+          "sha256": "3e74f5247dae8212c0b91930b439bf537cd4a72dcb7d96d9fbe9dddc170d58ea"
+        }
+      ]
+    },
+    {
+      "id": "GREY-002",
+      "name": "The Broker",
+      "group": "Grey Players",
+      "images": [
+        {
+          "path": "GREY-002_01.jpg",
+          "sha256": "4444223d080529290d9fae69c68936a6dc639d3c24f444db82098cddd7adf18b"
+        }
+      ]
+    },
+    {
+      "id": "EARTH-000",
+      "name": "Mother Earth",
+      "group": "Planetary intelligence",
+      "images": [
+        {
+          "path": "EARTH-000_01.jpg",
+          "sha256": "193d98e6217de66860482c7e9646948c670a77cb87550604d34217bcdc45a9dd"
+        }
+      ]
+    }
+  ],
+  "character_count": 27,
+  "image_count": 36
+}
